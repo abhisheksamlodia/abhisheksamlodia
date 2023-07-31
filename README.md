@@ -9,3 +9,5 @@ I am currently pursuing my Ph.D. in Theoretical Physics at Syracuse University. 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=abhisheksamlodia
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhisheksamlodia&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksamlodia&show_icons=true&theme=algolia&locale=en&layout=compact" alt="abhisheksamlodia" /></p>  
