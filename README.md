@@ -1,4 +1,6 @@
 ## Welcome to my Github Account
+<a href="https://komarev.com/ghpvc/?username=abhisheksamlodia"><img align="right" src="https://komarev.com/ghpvc/?username=abhisheksamlodia&color=orange" /></a>
+
 I am currently pursuing my Ph.D. in Theoretical Physics at Syracuse University. My research interests include Quantum Field Theory, Lattice Field Theory, Computational Physics, Quantum Computation, Tensor Networks, Machine Learning and Deep Learning.
 
 ### For any suggestions/queries, please email me at
